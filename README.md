@@ -6,6 +6,11 @@ Assim a comunicação entre os objetos é aprimorada, pois há a distribuição 
 
 O padrão Strategy permite definir novas operações sem alterar as classes dos elementos sobre os quais opera. Segundo o catálogo GOF o padrão tem como meta: "Definir uma família de algoritmos, encapsular cada uma delas e torná-las intercambiáveis. Strategy permite que o algoritmo varie independentemente dos clientes que o utilizam."
 
+## FERRAMENTAS E TECNOLOGIAS
+* Java EE 8 (http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
+* Netbeans IDE 8.2 (https://netbeans.org/downloads/?pagelang=pt_BR)
+* Carbon (https://carbon.now.sh/)
+
 ## REFERÊNCIAS
 
 * Brizeno, Marcos (31 de agosto de 2011). Strategy. "Strategy". Consultado em 30 de setembro de 2016.
